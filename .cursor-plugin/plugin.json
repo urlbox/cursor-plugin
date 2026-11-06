@@ -1,0 +1,17 @@
+{
+  "name": "urlbox",
+  "displayName": "Urlbox",
+  "version": "1.0.0",
+  "description": "Full-page screenshots, PDFs and Markdown of any site, even bot-protected ones, plus Urlbox project and usage tools.",
+  "author": { "name": "Urlbox", "email": "support@urlbox.com" },
+  "publisher": "Urlbox Ltd",
+  "homepage": "https://urlbox.com/docs/agents/mcp",
+  "repository": "https://github.com/urlbox/cursor-plugin",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": ["screenshot", "full-page-screenshot", "web-monitoring", "pdf", "markdown", "web-scraping", "browser-rendering", "mcp"],
+  "category": "integrations",
+  "tags": ["screenshot", "pdf", "scraping", "mcp"],
+  "skills": "./skills/",
+  "mcpServers": "./mcp.json"
+}
